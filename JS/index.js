@@ -16,7 +16,7 @@ const products = [
         price: 'R$ 4,90',
         pixPrice: 'R$ 4,41 com Pix',
         badge: '-10%',
-        img: 'https://images.unsplash.com/photo-1616628188506-4bf98d414a36?auto=format&fit=crop&w=300&q=80'
+        img: '../img/coracao.png'
     },
     {
         id: 3,
