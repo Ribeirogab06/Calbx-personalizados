@@ -1,4 +1,5 @@
-// Mock Data for Products imitating the reference layout
+// 1. O nosso "Banco de Dados" simulado. 
+// Note que agora todo produto tem uma propriedade chamada "categoria".
 const produtosBD = [
     // --- BRINDES ---
     {
